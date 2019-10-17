@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{BD72B569-6CC8-5761-BDD3-C5DFD55D0259}") = "CRUMBLE", "Assembly-CSharp.csproj", "{DCAC8C3B-0AA1-46C8-525D-E49A0CDA9B94}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{DCAC8C3B-0AA1-46C8-525D-E49A0CDA9B94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
